@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the EZFitness app (hereby referred to as "Application") for mobile devices that was created by Ariel Lima (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the EZFitness app (hereby referred to as "Application") for mobile devices that was created by EZFitness AI (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -31,6 +31,7 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Expo](https://expo.io/privacy)
+*   [Sentry](https://sentry.io/privacy/)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -61,6 +62,34 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 This privacy policy is effective as of 2024-09-06
+
+**Subscription Information**
+
+The Application offers subscription-based services to access premium features and content (referred to as "Subscription"). By purchasing a Subscription, you agree to the following:
+
+**1. Payment and Subscription Terms:**
+- When you purchase a Subscription through the Application, your payment will be processed by the relevant app store (e.g., Apple App Store or Google Play Store).
+- Payment will be charged to your app store account at confirmation of purchase. The subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period.
+- You will be charged for renewal within 24 hours prior to the end of the current subscription period at the rate of the selected plan (monthly or yearly).
+- You can manage or cancel your Subscription at any time by accessing your account settings in the Apple App Store or Google Play Store.
+
+**2. Free Trials:**
+- The Application may offer a free trial period for subscriptions. If offered, the duration of the free trial will be specified during the subscription sign-up.
+- After the free trial ends, your subscription will automatically convert into a paid subscription, and you will be charged unless auto-renewal is turned off in your app store account settings before the trial ends.
+- Any unused portion of a free trial will be forfeited when you purchase a subscription.
+
+**3. Refunds:**
+- All purchases of Subscriptions are final and non-refundable, except as required by applicable law or as described in the Apple App Store or Google Play Store policies.
+
+**4. Data Collection Related to Subscriptions:**
+- When you subscribe, the Application collects information such as your app store account details (but not payment information), subscription status, and the plan you've selected (monthly or yearly).
+- This information is used to provide you access to premium features, manage your subscription, and ensure the proper renewal and cancellation processes.
+
+**5. Managing Subscriptions:**
+- You can manage and cancel your subscription directly through your account settings in the Apple App Store or Google Play Store. Once canceled, your subscription will remain active until the end of the current billing period, after which you will lose access to premium content.
+
+**6. Communication:**
+- We may contact you via the email you provide during account creation to notify you about changes to your subscription, payment issues, or upcoming renewals.
 
 **Your Consent**
 
