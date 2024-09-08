@@ -24,6 +24,36 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+**Subscription Information**
+
+The Application offers subscription-based services to access premium features and content (referred to as "Subscription"). By purchasing a Subscription, you agree to the following:
+
+**1. Payment and Subscription Terms:**
+- When you purchase a Subscription through the Application, your payment will be processed by the relevant app store (e.g., Apple App Store or Google Play Store).
+- Payment will be charged to your app store account at confirmation of purchase. The subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period.
+- You will be charged for renewal within 24 hours prior to the end of the current subscription period at the rate of the selected plan (monthly or yearly).
+- You can manage or cancel your Subscription at any time by accessing your account settings in the Apple App Store or Google Play Store.
+
+**2. Free Trials:**
+- The Application may offer a free trial period for subscriptions. If offered, the duration of the free trial will be specified during the subscription sign-up.
+- After the free trial ends, your subscription will automatically convert into a paid subscription, and you will be charged unless auto-renewal is turned off in your app store account settings before the trial ends.
+- Any unused portion of a free trial will be forfeited when you purchase a subscription.
+
+**3. Refunds:**
+- All purchases of Subscriptions are final and non-refundable, except as required by applicable law or as described in the Apple App Store or Google Play Store policies.
+
+**4. Data Collection Related to Subscriptions:**
+- When you subscribe, the Application collects information such as your app store account details (but not payment information), subscription status, and the plan you've selected (monthly or yearly).
+- This information is used to provide you access to premium features, manage your subscription, and ensure the proper renewal and cancellation processes.
+
+**5. Managing Subscriptions:**
+- You can manage and cancel your subscription directly through your account settings in the Apple App Store or Google Play Store. Once canceled, your subscription will remain active until the end of the current billing period, after which you will lose access to premium content.
+
+**6. Communication:**
+- We may contact you via the email you provide during account creation to notify you about changes to your subscription, payment issues, or upcoming renewals.
+
+
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
