@@ -24,7 +24,7 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-**Subscription Information**
+## **Subscription Information**
 
 The Application offers subscription-based services to access premium features and content (referred to as "Subscription"). By purchasing a Subscription, you agree to the following:
 
@@ -52,7 +52,23 @@ The Application offers subscription-based services to access premium features an
 **6. Communication:**
 - We may contact you via the email you provide during account creation to notify you about changes to your subscription, payment issues, or upcoming renewals.
 
+## **Liability and User Responsibility**
 
+The workout recommendations, exercises, and fitness advice provided through the EZFitness app (hereafter referred to as "the Application") are intended for informational purposes only. By using the Application, you acknowledge that engaging in any physical activity or fitness program involves inherent risks, including the possibility of physical injury or damage to property. 
+
+**1. User Liability:**
+- By downloading and using the Application, you agree that any injuries or damages resulting from performing exercises or following workout recommendations provided by the Application are solely your responsibility. The Service Provider, EZFitness AI, is not liable for any injuries, health complications, or damages arising from the use of the Application, including but not limited to the improper execution of exercises, inappropriate selection of workouts, or exceeding your physical limitations.
+
+**2. Not Medical Advice:**
+- The Application does not offer medical advice, and any health-related information provided within the Application should not be interpreted as such. The Service Provider strongly advises you to consult a healthcare professional or physician before beginning any fitness program, especially if you have any existing health conditions, injuries, or are pregnant.
+  
+**3. Assumption of Risk:**
+- By using the Application, you acknowledge that you voluntarily assume the risk of any injuries, health issues, or damages resulting from performing exercises or following the workout recommendations provided by the Application. It is your responsibility to ensure that you are physically capable of engaging in the workouts provided and that you modify the exercises as necessary based on your physical ability or health conditions.
+
+**4. Disclaimer of Liability:**
+- The Service Provider disclaims all liability for any injuries, accidents, or damages resulting from the use of the Application. By using the Application, you agree to hold harmless the Service Provider and all of its affiliates, employees, agents, and licensors from any and all claims, liabilities, or losses that may arise from your use of the Application and its recommendations.
+
+By continuing to use the Application, you agree to the terms stated in this liability section, acknowledging that you are fully responsible for any injuries or damages that may occur as a result of using the Application.
 
 **Changes to These Terms and Conditions**
 
