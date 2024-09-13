@@ -1,4 +1,4 @@
-**Terms & Conditions**  
+## **Terms & Conditions**  
 
 These terms and conditions applies to the EZFitness app (hereby referred to as "Application") for mobile devices that was created by EZFitness AI (hereby referred to as "Service Provider") as a Commercial service.
 
@@ -23,6 +23,7 @@ Similarly, the Service Provider cannot always assume responsibility for your usa
 In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+
 
 ## **Subscription Information**
 
@@ -51,6 +52,7 @@ The Application offers subscription-based services to access premium features an
 
 **6. Communication:**
 - We may contact you via the email you provide during account creation to notify you about changes to your subscription, payment issues, or upcoming renewals.
+
 
 ## **Liability and User Responsibility**
 
