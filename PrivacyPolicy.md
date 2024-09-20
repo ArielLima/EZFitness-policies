@@ -31,7 +31,6 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Expo](https://expo.io/privacy)
-*   [Sentry](https://sentry.io/privacy/)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
