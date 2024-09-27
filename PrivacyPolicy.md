@@ -1,8 +1,8 @@
-# **Privacy Policy**
+**Privacy Policy**
 
-This privacy policy applies to the EZFitness app (hereby referred to as "Application") for mobile devices that was created by EZFitness AI (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the EZFitness app (hereby referred to as "Application") for mobile devices that was created by AEL LLC (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
-## **Information Collection and Use**
+**Information Collection and Use**
 
 The Application collects information when you download and use it. This information may include information such as
 
@@ -21,7 +21,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Name, Email, Weight, Height, Birthday, Gender. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, Name, age, height, weight, gender. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -30,6 +30,8 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Expo](https://expo.io/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
@@ -60,7 +62,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-09-06
+This privacy policy is effective as of 2024-09-27
 
 **Your Consent**
 
