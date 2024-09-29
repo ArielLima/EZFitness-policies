@@ -73,8 +73,49 @@ The workout recommendations, exercises, and fitness advice provided through the 
 
 By continuing to use the Application, you agree to the terms stated in this liability section, acknowledging that you are fully responsible for any injuries or damages that may occur as a result of using the Application.
 
-**Changes to These Terms and Conditions**
+## **Rate Limiting and Fair Use**
 
+To maintain the integrity and performance of our platform, we enforce rate limiting to prevent abuse and ensure fair usage among all users. By using our services, you agree to the following terms:
+
+1. **Usage Limits**:
+
+   - **Meal Requests**:
+     - **Daily Limit**: You may make up to **50 meal requests per day**.
+     - **Monthly Limit**: You may make up to **450 meal requests per month**.
+
+   - **Workout Requests**:
+     - **Daily Limit**: You may make up to **200 workout requests per day**.
+     - **Monthly Limit**: You may make up to **800 workout requests per month**.
+
+   - **Image Requests**:
+     - **Daily Limit**: You may make up to **50 image requests per day**.
+     - **Monthly Limit**: You may make up to **450 image requests per month**.
+
+2. **Prohibited Actions**:
+   - **Circumvention**: You must not attempt to bypass, disable, or interfere with any rate limiting mechanisms in place.
+   - **Automated Access**: Use of bots, scripts, or automated tools to exceed the specified rate limits is strictly prohibited.
+
+3. **Monitoring and Enforcement**:
+   - We reserve the right to monitor your usage to ensure compliance with these terms.
+   - Exceeding the rate limits may result in temporary suspension or permanent termination of your access to the services without prior notice.
+
+4. **Modifications to Limits**:
+   - We may modify the rate limits at any time. Significant changes will be communicated through updates to these terms or via email notifications.
+   - Continued use of the services after modifications constitutes acceptance of the new terms.
+
+5. **Exceptions**:
+   - If you require higher rate limits for legitimate business purposes, please contact our support team to discuss potential accommodations.
+
+6. **Compliance with Laws**:
+   - You agree to use the services in compliance with all applicable laws, regulations, and third-party rights.
+
+7. **Liability**:
+   - We are not liable for any damages or losses resulting from enforcement of these rate limiting measures.
+
+By continuing to use our platform, you acknowledge that you have read, understood, and agree to be bound by these rate limiting terms.
+
+
+**Changes to These Terms and Conditions**
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
 These terms and conditions are effective as of 2024-09-06
