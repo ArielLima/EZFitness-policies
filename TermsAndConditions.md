@@ -79,7 +79,7 @@ To maintain the integrity and performance of our platform, we enforce rate limit
 
 1. **Usage Limits**:
 
-   - **Meal Requests**:
+   - **Text Based Meal Requests**:
      - **Daily Limit**: You may make up to **50 meal requests per day**.
      - **Monthly Limit**: You may make up to **450 meal requests per month**.
 
@@ -87,7 +87,7 @@ To maintain the integrity and performance of our platform, we enforce rate limit
      - **Daily Limit**: You may make up to **200 workout requests per day**.
      - **Monthly Limit**: You may make up to **800 workout requests per month**.
 
-   - **Image Requests**:
+   - **Image Based Meal Requests**:
      - **Daily Limit**: You may make up to **50 image requests per day**.
      - **Monthly Limit**: You may make up to **450 image requests per month**.
 
