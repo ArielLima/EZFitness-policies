@@ -33,12 +33,20 @@ Please note that the Application utilizes third-party services that have their o
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Expo](https://expo.io/privacy)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
 *   as required by law, such as to comply with a subpoena, or similar legal process;
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+**Non-Personalized Ads**
+
+The free tier of the Application serves non-personalized advertisements. These ads are not based on your personal data or online behavior. Instead, they are contextual and may be influenced by general factors such as the content you are viewing or your approximate location (based on non-precise geolocation data). The purpose of these ads is to support the free functionality of the Application while respecting your privacy.
+
+If you have any questions about our advertising practices, feel free to contact us at support@ezfitnessapp.com.
 
 **Opt-Out Rights**
 
